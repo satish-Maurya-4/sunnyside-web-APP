@@ -497,6 +497,6 @@ body {
     grid-template-columns: repeat(4, 1fr);
   }
   .project__img{
-    height: 260px;
+    height: 320px;
   }
 }
