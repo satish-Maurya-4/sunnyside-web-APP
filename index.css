@@ -375,9 +375,9 @@ body {
   transition: all 0.5s ease-in-out;
 }
 
-.footer__icons > a:hover{
+/* .footer__icons > a:hover{
   color: var(--white);
-}
+} */
 
 /* media queries */
 
