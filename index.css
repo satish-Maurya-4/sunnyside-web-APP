@@ -252,13 +252,13 @@ body {
 
 }
 
-.service__prem--info > h1 {
+.service__prem--info > h2 {
   font-family: "Fraunces", serif;
   text-transform: capitalize;
   margin-bottom: 3rem;
 }
 
-.one__info > h1 {
+.one__info > h2 {
   color: var(--dark-green);
 }
 .one__info > p {
@@ -268,7 +268,7 @@ body {
   line-height: 1.6;
 }
 
-.two__info > h1 {
+.two__info > h2 {
   color: var(--dark-blue);
   
 }
